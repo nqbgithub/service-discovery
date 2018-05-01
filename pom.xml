@@ -3,11 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-<<<<<<< HEAD
     <groupId>com.trial.staffe</groupId>
-=======
-    <groupId>com.devil.demo</groupId>
->>>>>>> 47435897b39257f20a2faceb10c20a6c5227dfa6
     <artifactId>service-discovery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -34,17 +30,10 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
-<<<<<<< HEAD
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
-=======
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-eureka-server</artifactId>
-            <!--<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>-->
->>>>>>> 47435897b39257f20a2faceb10c20a6c5227dfa6
         </dependency>
 
         <dependency>
@@ -85,9 +74,4 @@
             </snapshots>
         </repository>
     </repositories>
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 47435897b39257f20a2faceb10c20a6c5227dfa6
 </project>
